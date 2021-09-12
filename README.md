@@ -127,7 +127,8 @@ The search for methods of solving problems
 In the literature, NLP (Non linear Problem) and MIP (Mixed Integrator Problem) are NP-hard problems. There are methods to solve these problems using solvers such as AlphaECP [[GAMS](https://neos-server.org/neos/solvers/minco:AlphaECP/GAMS.html)], ANTIGONE [[GAMS](https://neos-server.org/neos/solvers/minco:ANTIGONE/GAMS.html)], BARON [[AMPL](https://neos-server.org/neos/solvers/minco:BARON/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:BARON/GAMS.html)], Bonmin [[AMPL](https://neos-server.org/neos/solvers/minco:Bonmin/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:Bonmin/GAMS.html)] and others (# 1). These solvers usually solve NLP problems and then use the brach&amp;bound method to find an integer or binary solution.
 
 
-# Input files
+# Input files for the optimisation program
+input format [here](https://github.com/Hermann-web/challenge-roadef-2020/blob/main/checker/README.md) and some input and output examples can be found at [checker/test_checker](https://github.com/Hermann-web/challenge-roadef-2020/tree/main/checker/test_checker)
 
 # Implementation
 In order to facilitate the implementation, we used a library available under pytn. Among the existing libraries, there are Pyomio, Gekko
