@@ -1,5 +1,6 @@
 # challenge-roadef-2020
 This challenge is about solving a Mixed Integer Non Linear problem: MINLP
+More details can be found at https://www.roadef.org/challenge/2020/en/
 
 _ **Team members :** _
 
@@ -10,6 +11,7 @@ _ **Team members :** _
 - Souad EZZOUINE
 
 # Methods used to solve the problem
+
 - Soveur Excel 
 - Python gekko v
 - Heuristique: pour trouver une solution
