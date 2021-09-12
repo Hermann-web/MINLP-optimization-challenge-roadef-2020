@@ -2,13 +2,6 @@
 This challenge is about solving a Mixed Integer Non Linear problem: MINLP
 More details can be found at https://www.roadef.org/challenge/2020/en/
 
-_ **Team members :** _
-
-- Akram IBN EL AHMER
-- Hermann LEIBNITZ KLAUS AGOSSOU
-- Reda ASSIOUI
-- Olivier KOMBA MBONGO
-- Souad EZZOUINE
 
 # Methods used to solve the problem
 
@@ -217,9 +210,16 @@ _ **Solver python :** _ The results obtained are satisfactory for the first thre
 
 
 
+_ **Team members :** _
+
+- Akram IBN EL AHMER
+- Hermann LEIBNITZ KLAUS AGOSSOU
+- Reda ASSIOUI
+- Olivier KOMBA MBONGO
+- Souad EZZOUINE
+
 # Read more
-- 
-[1](#sdfootnote1anc)( ) Some MINLP solvers according to [neos-server.org](https://neos-server.org/neos/solvers/)(accessed on 22/04/2021): AlphaECP [[GAMS](https://neos-server.org/neos/solvers/minco:AlphaECP/GAMS.html)], ANTIGONE [[GAMS](https://neos-server.org/neos/solvers/minco:ANTIGONE/GAMS.html)], BARON [[AMPL](https://neos-server.org/neos/solvers/minco:BARON/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:BARON/GAMS.html)], Bonmin [[AMPL](https://neos-server.org/neos/solvers/minco:Bonmin/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:Bonmin/GAMS.html)], Couenne [[AMPL](https://neos-server.org/neos/solvers/minco:Couenne/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:Couenne/GAMS.html)], DICOPT [[GAMS](https://neos-server.org/neos/solvers/minco:DICOPT/GAMS.html)], FilMINT [[AMPL](https://neos-server.org/neos/solvers/minco:FilMINT/AMPL.html)], Knitro [[AMPL](https://neos-server.org/neos/solvers/minco:Knitro/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:Knitro/GAMS.html)], LINDOGlobal [[GAMS](https://neos-server.org/neos/solvers/minco:LINDOGlobal/GAMS.html)], MINLP [[AMPL](https://neos-server.org/neos/solvers/minco:MINLP/AMPL.html)], SBB [[GAMS](https://neos-server.org/neos/solvers/minco:SBB/GAMS.html)], scip [[AMPL](https://neos-server.org/neos/solvers/minco:scip/AMPL.html)] [[CPLEX](https://neos-server.org/neos/solvers/minco:scip/CPLEX.html)], [[GAMS](https://neos-server.org/neos/solvers/minco:scip/GAMS.html)] [[MPS](https://neos-server.org/neos/solvers/minco:scip/MPS.html)] [[OSIL](https://neos-server.org/neos/solvers/minco:scip/OSIL.html)] [[Python](https://neos-server.org/neos/solvers/minco:scip/Python.html)] [[ZIMPL](https://neos-server.org/neos/solvers/minco:scip/ZIMPL.html)], SHOT [[GAMS](https://neos-server.org/neos/solvers/minco:SHOT/GAMS.html)]
+- [1](#sdfootnote1anc)( ) Some MINLP solvers according to [neos-server.org](https://neos-server.org/neos/solvers/)(accessed on 22/04/2021): AlphaECP [[GAMS](https://neos-server.org/neos/solvers/minco:AlphaECP/GAMS.html)], ANTIGONE [[GAMS](https://neos-server.org/neos/solvers/minco:ANTIGONE/GAMS.html)], BARON [[AMPL](https://neos-server.org/neos/solvers/minco:BARON/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:BARON/GAMS.html)], Bonmin [[AMPL](https://neos-server.org/neos/solvers/minco:Bonmin/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:Bonmin/GAMS.html)], Couenne [[AMPL](https://neos-server.org/neos/solvers/minco:Couenne/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:Couenne/GAMS.html)], DICOPT [[GAMS](https://neos-server.org/neos/solvers/minco:DICOPT/GAMS.html)], FilMINT [[AMPL](https://neos-server.org/neos/solvers/minco:FilMINT/AMPL.html)], Knitro [[AMPL](https://neos-server.org/neos/solvers/minco:Knitro/AMPL.html)] [[GAMS](https://neos-server.org/neos/solvers/minco:Knitro/GAMS.html)], LINDOGlobal [[GAMS](https://neos-server.org/neos/solvers/minco:LINDOGlobal/GAMS.html)], MINLP [[AMPL](https://neos-server.org/neos/solvers/minco:MINLP/AMPL.html)], SBB [[GAMS](https://neos-server.org/neos/solvers/minco:SBB/GAMS.html)], scip [[AMPL](https://neos-server.org/neos/solvers/minco:scip/AMPL.html)] [[CPLEX](https://neos-server.org/neos/solvers/minco:scip/CPLEX.html)], [[GAMS](https://neos-server.org/neos/solvers/minco:scip/GAMS.html)] [[MPS](https://neos-server.org/neos/solvers/minco:scip/MPS.html)] [[OSIL](https://neos-server.org/neos/solvers/minco:scip/OSIL.html)] [[Python](https://neos-server.org/neos/solvers/minco:scip/Python.html)] [[ZIMPL](https://neos-server.org/neos/solvers/minco:scip/ZIMPL.html)], SHOT [[GAMS](https://neos-server.org/neos/solvers/minco:SHOT/GAMS.html)]
 
 - Resolution with python
 	- NLP
