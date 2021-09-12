@@ -1,0 +1,4 @@
+minlp_maximum_iterations 100000
+minlp_max_iter_with_int_sol 10
+nlp_maximum_iterations 50
+minlp_branch_method 1minlp_integer_tol 0.2

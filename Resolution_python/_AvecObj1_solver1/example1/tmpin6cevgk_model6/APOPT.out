@@ -1,0 +1,12 @@
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      0.01 NLPi:    7 Dpth:    0 Lvs:    3 Obj:  0.00E+00 Gap:       NaN
+Iter:     2 I: -1 Tm:      0.00 NLPi:    2 Dpth:    1 Lvs:    2 Obj:  0.00E+00 Gap:       NaN
+Iter:     3 I: -1 Tm:      0.00 NLPi:    2 Dpth:    1 Lvs:    1 Obj:  0.00E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      0.00 NLPi:    2 Dpth:    1 Lvs:    3 Obj:  0.00E+00 Gap:       NaN
+Iter:     5 I: -1 Tm:      0.00 NLPi:    1 Dpth:    2 Lvs:    2 Obj:  0.00E+00 Gap:       NaN
+Iter:     6 I: -1 Tm:      0.01 NLPi:    4 Dpth:    2 Lvs:    1 Obj:  0.00E+00 Gap:       NaN
+--Integer Solution:   0.00E+00 Lowest Leaf:   0.00E+00 Gap:   0.00E+00
+Iter:     7 I:  0 Tm:      0.00 NLPi:    2 Dpth:    2 Lvs:    1 Obj:  0.00E+00 Gap:  0.00E+00
+ Successful solution
