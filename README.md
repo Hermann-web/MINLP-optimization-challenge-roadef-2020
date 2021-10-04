@@ -37,6 +37,11 @@ To solve this problem, RTE decided, firstly, to calculate risk values correspond
 Thus, given the risk values, our job is to find an optimal and feasible planning with respect to a risk-based objective, determining the interventions and their start time with the minimum cost.
 
 
+# Poster
+![poster](https://user-images.githubusercontent.com/69398651/135927430-3d9f2bfd-5b9b-45c9-8930-fcfe05c7b0e1.jpg)
+
+
+
 ## Mathematical model
 
 _ **Problem data:** _
